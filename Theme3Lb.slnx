@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Theme3/Theme3.csproj" />
+  <Project Path="Theme3Lb/Theme3Lb.csproj" />
+</Solution>
